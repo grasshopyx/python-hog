@@ -8,7 +8,7 @@ Vectorised implementation of the Histogram of Oriented Gradients
 
 Clone the repository and cd there:
 ```bash
-git clone https://github.com/JeanKossaifi/python-hog
+git clone https://github.com/grasshopyx/python-hog
 cd python-hog
 ```
 Then install the package (here in editable mode with `-e` or equivalently `--editable`:
@@ -20,7 +20,7 @@ pip install -e .
 
 Simply run
 ```bash
-pip install git+https://github.com/JeanKossaifi/python-hog
+pip install git+https://github.com/grasshopyx/python-hog
 ```
 
 ## Idea behind the implementation
